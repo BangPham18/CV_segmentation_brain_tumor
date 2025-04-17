@@ -20,6 +20,6 @@ This project focuses on segmenting brain tumors from medical images using the U-
   - Uses ReLU activation and Binary Crossentropy or Dice Loss as the loss function.
 
 ## Result
-![image](https://github.com/user-attachments/assets/86bc5036-3c66-4664-a2b1-c6174cf2630a)
+![image](https://github.com/user-attachments/assets/3a24eb51-ffa1-4c7e-9a4e-80a03e5a0304)
 
 
